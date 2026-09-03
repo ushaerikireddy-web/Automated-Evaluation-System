@@ -199,11 +199,11 @@ This project helped practice:
 * `__name__ == "__main__"`
 
 ## Output : 
-# case - 1 :
+# Case - 1 :
 
 <img width="920" height="686" alt="image" src="https://github.com/user-attachments/assets/55369389-5bf1-4989-b604-2ebba782117e" />
 
-# case - 2 :
+# Case - 2 :
 
 <img width="911" height="701" alt="image" src="https://github.com/user-attachments/assets/f081e79f-3c9c-482d-8dce-1847708a9154" />
 
