@@ -198,7 +198,7 @@ This project helped practice:
 * F-string formatting
 * `__name__ == "__main__"`
 
-## Output : 
+## Example Output : 
 # Case - 1 :
 
 <img width="920" height="686" alt="image" src="https://github.com/user-attachments/assets/55369389-5bf1-4989-b604-2ebba782117e" />
