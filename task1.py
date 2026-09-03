@@ -20,7 +20,7 @@ def student_Info():
     
     Total_Marks=Python+Java+Data_Base+Data_Science+Web_Development
     Avg_Marks=Total_Marks/5
-    if (int(Python)>= 35 & int(Java)>= 35 & int(Data_Base)>= 35 & int(Data_Science)>= 35 & int(Web_Development) >= 35):
+    if (Python>= 35 and Java>= 35 and Data_Base>= 35 and Data_Science>= 35 and Web_Development >= 35):
         Result="Pass"
         if Avg_Marks>=75:
             Grade="Distinction"
@@ -28,6 +28,8 @@ def student_Info():
             Grade="First Class"
         elif (Avg_Marks>=50 & Avg_Marks<60):
             Grade="Second Class"
+        else:
+            Grade="Pass"
     else:
         Result="Fail"
         Grade="Fail"     
